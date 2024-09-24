@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\Case Study\bin\Debug\net7.0\Case Study.exe
+C:\Users\Admin\source\repos\Case Study\bin\Debug\net7.0\Case Study.deps.json
+C:\Users\Admin\source\repos\Case Study\bin\Debug\net7.0\Case Study.runtimeconfig.json
+C:\Users\Admin\source\repos\Case Study\bin\Debug\net7.0\Case Study.dll
+C:\Users\Admin\source\repos\Case Study\bin\Debug\net7.0\Case Study.pdb
+C:\Users\Admin\source\repos\Case Study\obj\Debug\net7.0\Case Study.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Case Study\obj\Debug\net7.0\Case Study.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Case Study\obj\Debug\net7.0\Case Study.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Case Study\obj\Debug\net7.0\Case Study.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Case Study\obj\Debug\net7.0\Case Study.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Case Study\obj\Debug\net7.0\Case Study.dll
+C:\Users\Admin\source\repos\Case Study\obj\Debug\net7.0\refint\Case Study.dll
+C:\Users\Admin\source\repos\Case Study\obj\Debug\net7.0\Case Study.pdb
+C:\Users\Admin\source\repos\Case Study\obj\Debug\net7.0\Case Study.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Case Study\obj\Debug\net7.0\ref\Case Study.dll
